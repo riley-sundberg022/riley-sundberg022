@@ -10,5 +10,13 @@ Hello! My name is Riley. I was born and raised on the beautiful Eastern Foothill
 * Email: riley.sundberg022@gmail.com
 * GitHub:
 * LinkedIn: In progress
+    <div id= "Some skills">
+ 	<p>  Treasures from My Adventures Otherwise known as; Some Skills Gleaned from Classes Near and Far</p>
 
+ 	<ul> 
+   	<li>Plant ID practice, use of dichotomous keys </li>
+   	<li>Bird ID skills</li>
+   	<li>Experience maintaining a scientific field journal</li>
+ 	</ul>
+      </div>
 ### Projects
