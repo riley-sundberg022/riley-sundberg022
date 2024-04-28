@@ -22,5 +22,5 @@ Hello! My name is Riley. I was born and raised on the beautiful Eastern Foothill
   
 ### Other things
 Currently attending MSU Denver as a senior  as of 2024
-<embed type="text/html" src= "/riley-sundberg022.github.io/first-map-template/uttc.html" width="600" height="600">
+<embed type="text/html" src= "/first-map-template/uttc.html" width="600" height="600">
      
