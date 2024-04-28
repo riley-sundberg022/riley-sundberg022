@@ -5,10 +5,8 @@ Hello! My name is Riley. I was born and raised on the beautiful Eastern Foothill
                        alt="Portfolio Picture"
                        width="25%"
                        src ="MeFabP.jpg"> 
-      <p class= "caption"> Riley Sundberg </p>
-      <p class= "caption"> Credit: Author </p>
 
-  ### Contact Information
+### Contact Information
 * Email: riley.sundberg022@gmail.com
 * GitHub:
 * LinkedIn: In progress
