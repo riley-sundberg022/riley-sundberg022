@@ -8,15 +8,15 @@ Hello! My name is Riley. I was born and raised on the beautiful Eastern Foothill
       <p class= "caption"> Riley Sundberg </p>
       <p class= "caption"> Credit: Author </p>
   
-    </div>
+   </div>
 
 ### Contact Information
 * Email: riley.sundberg022@gmail.com
 * GitHub:
 * LinkedIn: In progress
 
-    <div id= "Some skills">
-### Treasures from My Adventures Otherwise known as; Some Skills Gleaned from Classes Near and Far</p>
+    
+### Treasures from My Adventures Otherwise known as; Some Skills Gleaned from Classes Near and Far
  	
   <ul> 
    	<li>Plant ID practice, use of dichotomous keys </li>
@@ -25,4 +25,3 @@ Hello! My name is Riley. I was born and raised on the beautiful Eastern Foothill
  	</ul>
       </div>
       
-### Projects
