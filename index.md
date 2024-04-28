@@ -11,6 +11,7 @@ Hello! My name is Riley. I was born and raised on the beautiful Eastern Foothill
 * GitHub:
 * LinkedIn: In progress
 
+
     
 ### Treasures from My Adventures Otherwise known as; Some Skills Gleaned from Classes Near and Far
   <ul> 
@@ -18,4 +19,8 @@ Hello! My name is Riley. I was born and raised on the beautiful Eastern Foothill
    	<li>Bird ID skills</li>
    	<li>Experience maintaining a scientific field journal</li>
  	</ul>
+  
+### Other things
+Currently attending MSU Denver as a senior  as of 2024
+<embed type="text/html" src= "uttc.html" width="600" height="600">
      
