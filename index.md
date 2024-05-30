@@ -26,8 +26,9 @@ Currently attending MSU Denver as a senior  as of 2024
 
 ### ESILL STARS Projects
 
-<embed type="text/html" src= "https://riley-sundberg022.github.io/riley-sundberg22.github.io/notebooks/get-started-with-open-reproducible-science.html" width="600" height="600">
+<embed type="text/html" src= "https://riley-sundberg022.github.io/riley-sundberg22.github.io/map/migration.html" width="600" height="600">
 Here is a migration map of the Tasiyagnunpa migration (or Western Meadowlark, or _Sturnella neglecta_). Tasiyagnunpa is the Lakota name of the Western Meadowlark. 
+map/migration.html
 <a href= "https://riley-sundberg022.github.io/riley-sundberg22.github.io/map/species-distribution.html" > Tasiyagnunpa migration (or Western Meadowlark, or _Sturnella neglecta_) </a>
 Read more about the Lakota connection to Tasiyagnunpa from <a href="https://www.nativesunnews.today/articles/meadowlarks-still-speak-lakota-humans-dont-anymore/">Native Sun News Today</a>
 
