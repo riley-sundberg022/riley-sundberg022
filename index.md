@@ -36,7 +36,7 @@ Read more about the Lakota connection to Tasiyagnunpa from <a href="https://www.
 
 #### Creating Reproducible Climate Analysis with Python
 
-<embed type="text/html" src= "https://riley-sundberg022.github.io/riley-sundberg22.github.io/img/total_prcp_lakewood_with_trendline.png" width="600" height="600">
+<embed type="text/html" src= "https://riley-sundberg022.github.io/riley-sundberg22.github.io/img/total_prcp_lakewood_with_trendline.png" width="600" >
 
 <a href= "https://riley-sundberg022.github.io/riley-sundberg22.github.io/notebooks/get-started-with-open-reproducible-science.html" > Here </a> is the notebook where the reproducible analysis code is
 
