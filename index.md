@@ -28,6 +28,8 @@ Hello! My name is Riley. I was born and raised on the beautiful Eastern Foothill
 <embed type= "text/html" src="https://riley-sundberg022.github.io/riley-sundberg22.github.io/map/T_migration.html" style="width: 100%; height: 100%; border: none;">
 </div>
 Data Credit; GBIF and EPA Ecoregion data
+See a this map on its own page <a href= "https://riley-sundberg022.github.io/riley-sundberg22.github.io/map/T_migration.html" > here </a>
+
 <a href= "https://riley-sundberg022.github.io/riley-sundberg22.github.io/map/species-distribution.html" > Here </a> is the link to the entire notebook to make that map, including downloading the data, spatially joining the ecoregions and Tasiyagnunpa observations
 
 Read more about the Lakota connection to Tasiyagnunpa from <a href="https://www.nativesunnews.today/articles/meadowlarks-still-speak-lakota-humans-dont-anymore/">Native Sun News Today</a>
