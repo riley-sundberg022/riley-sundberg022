@@ -25,7 +25,7 @@ Hello! My name is Riley. I was born and raised on the beautiful Eastern Foothill
 
 #### Created a migration map of the Tasiyagnunpa migration (or Western Meadowlark, or _Sturnella neglecta_) Tasiyagnunpa is the Lakota name of the Western Meadowlark 
 <div style="width: 800px; height: 700px; overflow: hidden; position: relative;">
-<embed type= "text/html" src="https://riley-sundberg022.github.io/riley-sundberg22.github.io/map/migration.html" style="width: 100%; height: 100%; border: none;">
+<embed type= "text/html" src="https://riley-sundberg022.github.io/riley-sundberg22.github.io/map/migration.html" style="width: 80%; height: 80%; border: none;">
 </div>
 <a href= "https://riley-sundberg022.github.io/riley-sundberg22.github.io/map/species-distribution.html" > Here </a> is the link to the entire notebook to make that map, including downloading the data, spatially joining the ecoregions and Tasiyagnunpa observations
 
