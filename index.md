@@ -35,8 +35,8 @@ See a this map on its own page <a href= "https://riley-sundberg022.github.io/ril
 Read more about the Lakota connection to Tasiyagnunpa from <a href="https://www.nativesunnews.today/articles/meadowlarks-still-speak-lakota-humans-dont-anymore/">Native Sun News Today</a>
 
 #### Creating Reproducible Climate Analysis with Python
-Plotting Data
-<embed type="text/html" src= "plotty stuff here" width="600" height="600">
+
+<embed type="text/html" src= "https://riley-sundberg022.github.io/riley-sundberg22.github.io/img/total_prcp_lakewood_with_trendline.png" width="600" height="600">
 
 <a href= "https://riley-sundberg022.github.io/riley-sundberg22.github.io/notebooks/get-started-with-open-reproducible-science.html" > Here </a> is the notebook where the reproducible analysis code is
 
